@@ -1,6 +1,7 @@
 {
     "name": "mxm/lib-one",
     "description": "Lib1",
+    "version": "v1.0.2",
     "type": "project",
     "config": {
         "sort-packages": true
