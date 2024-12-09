@@ -1,0 +1,17 @@
+{
+    "name": "mxm/lib-one",
+    "description": "Lib1",
+    "type": "project",
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "php": "^8.2",
+        "monolog/monolog": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "LibOne\\": "src/LibOne/"
+        }
+    }
+}
