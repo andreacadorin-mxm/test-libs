@@ -1,13 +1,3 @@
 {
-    "name": "mxm/libs",
-    "repositories": [
-        {
-            "type": "path",
-            "url": "lib-one"
-        },
-        {
-            "type": "path",
-            "url": "lib-two"
-        }
-    ]
+    "name": "mxm/libs"
 }
