@@ -1,7 +1,7 @@
 {
     "name": "mxm/lib-one",
-    "description": "Lib1",
-    "version": "v1.0.3",
+    "description": "New lib wow",
+    "version": "v1.0.4",
     "type": "library",
     "config": {
         "sort-packages": true
