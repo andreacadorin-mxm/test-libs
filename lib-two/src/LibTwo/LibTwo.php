@@ -8,6 +8,6 @@ class LibTwo
 {
     public function run(): string
     {
-        return "dawg";
+        return "2.0";
     }
 }
