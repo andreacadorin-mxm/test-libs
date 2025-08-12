@@ -8,6 +8,6 @@ class LibOne
 {
     public function run(): string
     {
-        return "yo updated v";
+        return "yo updated yess v1.2";
     }
 }
